@@ -64,14 +64,17 @@ td, th{
         font-size: 10px;
     }
     .photo{
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         border-radius: 50%;
     }
     .icon{
         font-size: 15px;
     }
     .delOrNo svg{
-        font-size: 15px !important;
+        font-size: 20px !important;
+    }
+    .addButton{
+        margin-bottom: 50px;
     }
 }
