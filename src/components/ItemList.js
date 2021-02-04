@@ -1,8 +1,8 @@
 import React from 'react'
 import { Table, Badge } from 'react-bootstrap'
 
-import DeleteButton from './deleteButton'
-import EditButton from './editButton'
+import DeleteButton from './DeleteButton'
+import EditButton from './EditButton'
 
 const itemList = ({numbers, deleteNumber, editButton}) => {
 

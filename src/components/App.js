@@ -1,9 +1,9 @@
-import Header from './header'
+import Header from './Header'
 import { useState, useEffect } from 'react'
 import { Container, Col, Row } from 'react-bootstrap'
 
 import numberList from "./numbers";
-import ItemList from "./itemList";
+import ItemList from "./ItemList";
 import AddNumber from "./AddNumber"
 
 function App() {
